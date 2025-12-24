@@ -1,5 +1,5 @@
 # PRODIGY_WD_01
-# Smooth Scroll Navigation Bar
+# Landing Page
 
 This is a simple smooth scrolling navigation bar project built using HTML, CSS, and JavaScript.
 
